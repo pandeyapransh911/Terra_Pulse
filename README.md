@@ -249,7 +249,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions, feedback, or would like to collaborate, please don't hesitate to reach out:
 
-- **Email**: vishnu_j@mt.iitr.ac.in
+- **Email**: apranshpandey1721@gmail.com
 
 You can also open an issue on GitHub for bug reports or feature requests.
 
